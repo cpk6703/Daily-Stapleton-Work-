@@ -56,4 +56,27 @@ Feb 13, 2018
 
 March 13, 2018
 -attempt to take family,IBM, and random from a different perspective to compare but hitting a wall writing the code right.
-12pm-4pm 
+12pm-4pm
+
+March 20, 2018
+-Meeting with Dr. Stapleton
+
+-Started a check list
+1. Make vQTL work using test data
+-generate test data and compare outputs
+-run the sim functions
+2. Run real data
+-Talk to Thomas for code to rearrange data
+-check what has been run, and run what hasn't
+3. family pvalues, and check for missing data for both family and random
+-set up a Manhattan plot, y = -log(pvalues), x = snip position
+-get rest of family data
+12pm-5pm
+
+March 28, 2018
+-attempted to get test data results
+10pm-11pm
+
+March 29, 2018
+-attempted to get test data results (howell cross data from Thomas)
+12pm-3pm
